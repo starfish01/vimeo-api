@@ -1,7 +1,7 @@
 {
-    "name": "vimeo/vimeo-api",
-    "description": "Official PHP library for the Vimeo API.",
-    "homepage": "https://github.com/vimeo/vimeo.php",
+    "name": "starfish01/vimeo-api",
+    "description": "UnOfficial PHP library for the Vimeo API.",
+    "homepage": "https://github.com/starfish01/vimeo-api",
     "keywords": ["vimeo", "video"],
     "license": "Apache-2.0",
     "authors": [
