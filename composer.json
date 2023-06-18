@@ -1,7 +1,7 @@
 {
-    "name": "starfish01/vimeo-api",
+    "name": "vimeo/vimeo-api",
     "description": "UnOfficial PHP library for the Vimeo API.",
-    "homepage": "https://github.com/starfish01/vimeo-api",
+    "homepage": "https://github.com/vimeo/vimeo.php",
     "keywords": ["vimeo", "video"],
     "license": "Apache-2.0",
     "authors": [
@@ -10,7 +10,7 @@
             "homepage": "http://vimeo.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.3.0",
         "ext-curl": "*",
